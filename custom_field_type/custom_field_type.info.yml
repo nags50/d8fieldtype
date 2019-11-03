@@ -1,0 +1,10 @@
+name: 'Custom Field Type'
+type: module
+description: 'Contains functionality for custom field type.'
+package: 'DUkeHealth Custom' 
+# core: 8.x
+
+# version info.
+version: '8.x-1.0'
+core: '8.x'
+project: 'custom'
